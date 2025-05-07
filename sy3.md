@@ -22,3 +22,13 @@
 
 ![0b490c5bd2186346af27ecbabc16b83](https://github.com/user-attachments/assets/6491227e-8849-4cb5-bbb2-b1c3b27c0ae9)
 
+7.扩展实验可以尝试考虑更多不同的组合：
+
+Preview +VideoCapture + ImageCapture：
+
+![5f1fbcb188e16e29bcdcdc109649211](https://github.com/user-attachments/assets/9e688705-170b-47c0-94ca-3defddfb1e56)
+
+Preview +VideoCapture + ImageAnalysis
+
+![627ab406999b542de833ec493267d33](https://github.com/user-attachments/assets/e903eee4-58d5-40ae-8d5b-98ee34b7d0a6)
+
